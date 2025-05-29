@@ -17,8 +17,7 @@ const XProductCard = () => {
 
         <div className="product-desc">
           <p>
-            A floral, solar, and voluptuous interpretation composed by Olivier Polge,
-            Perfumer-Creator for the House of CHANEL.
+            A floral, solar and voluptuous interpretation composed by Olivier Polge, Perfumer-Creator for the House of CHANEL.
           </p>
         </div>
 
