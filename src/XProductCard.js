@@ -7,7 +7,7 @@ const XProductCard = () => {
     <div className="product-card">
       <img
         src="https://www.sephora.es/on/demandware.static/-/Sites-masterCatalog_Sephora/default/dw58c51930/images/hi-res/alternates/PID_alternate5/PID_alternate5_1074/P10042190_5.jpg"
-        alt="A bottle of perfume surrounded by foliage."
+        alt="A bottle of perfume surrounded by foliage"
         className="product-image"
       />
 
